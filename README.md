@@ -22,3 +22,18 @@ be happy to help
 - Open terminal or command prompt and cd to the directory containing file attendanceChecker.py
 - Type 'python attendanceChecker.py' without quotes
 - Hurray!!😃 Your attendance displays in almost a second
+
+# To do (contribute)
+* For those who are looking to contribute to this code, First of all Cheers!!😀
+Following enhancements can be done:
+- modify code to allow viewing of monthly, semester-wise and date-wise attendance (Difficulty : Hard)
+- Add colors🌈 to the output so its easy to look for specific info in the output (Difficulty : Hard)
+- The code is a bit messy at the moment. If you like to keep things clean, please show off your clean code writing skills by 
+improving the readability of the code😌 (Difficulty : Moderate)
+- Write tests for this code so as to make ensure it works even for edge cases (Difficulty : Moderate)
+- Suggest spelling mistake anywhere in this documentation (Difficulty : Easy)
+- Anything you think should be added to make this software more useful😊 (Difficulty : ❓)
+
+# Credits
+- Ankit Kumar Singh (Author)
+- You can be here 😎 (You need to Contribute for your name to be displayed here)
