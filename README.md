@@ -31,8 +31,8 @@ Following enhancements can be done:
 - Add colors🌈 to the output so its easy to look for specific info in the output (Difficulty : Hard)
 - The code is a bit messy at the moment. If you like to keep things clean, please show off your clean code writing skills by 
 improving the readability of the code😌 (Difficulty : Moderate)
-- Write tests for this code so as to make ensure it works even for edge cases (Difficulty : Moderate)
-- Suggest spelling mistake anywhere in this documentation (Difficulty : Easy)
+- Write tests for this code so as to ensure it works even for edge cases (Difficulty : Moderate)
+- Suggest spelling or grammmar mistake anywhere in this documentation (Difficulty : Easy)
 - Anything you think should be added to make this software more useful😊 (Difficulty : ❓)
 
 # Credits
