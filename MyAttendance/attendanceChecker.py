@@ -2,8 +2,10 @@ import requests as rq
 from bs4 import BeautifulSoup as bs
 import time
 
+Id = 'Your ID (eg. hcst12cs045)'
+Pass = 'Your Password(date of birth by default)'
 
-payload = { 'txtUserId': 'hcst14cs058', 'txtPass': '04111995', '__VIEWSTATE': '/wEPDwULLTEyNDc0MTE2NTEPZBYCAgMPFgIeBmFjdGlvbgULL2lzaW0vbG9naW4WAgIJDxYCHglpbm5lcmh0bWxlZGQYwEPNs/m+JW7x/XvzS1LupkAW6RhmRWQg7UyvtTLE1g==', '__EVENTVALIDATION': '/wEWBQLV/b7AAQKz8dy8BQLKw6LdBQLa5//eAwKC3IeGDINQsvFZbXS/QtUAPao10wOIw/hKNVmHqg5prbYXR16Z', 'btnLogin': ''}
+payload = { 'txtUserId': Id, 'txtPass': Pass, '__VIEWSTATE': '/wEPDwULLTEyNDc0MTE2NTEPZBYCAgMPFgIeBmFjdGlvbgULL2lzaW0vbG9naW4WAgIJDxYCHglpbm5lcmh0bWxlZGQYwEPNs/m+JW7x/XvzS1LupkAW6RhmRWQg7UyvtTLE1g==', '__EVENTVALIDATION': '/wEWBQLV/b7AAQKz8dy8BQLKw6LdBQLa5//eAwKC3IeGDINQsvFZbXS/QtUAPao10wOIw/hKNVmHqg5prbYXR16Z', 'btnLogin': ''}
 loginPage = 'http://111.93.35.142/isim/login'
 attendancePage = 'http://111.93.35.142/ISIM/Student/TodayAttendence'
 profilePage = 'http://111.93.35.142/ISIM/Student/Course'
