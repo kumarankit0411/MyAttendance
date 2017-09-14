@@ -24,7 +24,8 @@ be happy to help
 - Hurray!!😃 Your attendance displays in almost a second
 
 # To do (contribute)
-* For those who are looking to contribute to this code, First of all Cheers!!😀
+For those who are looking to contribute to this code, First of all Cheers!!😀
+
 Following enhancements can be done:
 - modify code to allow viewing of monthly, semester-wise and date-wise attendance (Difficulty : Hard)
 - Add colors🌈 to the output so its easy to look for specific info in the output (Difficulty : Hard)
