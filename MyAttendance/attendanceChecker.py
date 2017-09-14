@@ -1,3 +1,10 @@
+'''
+Author: Ankit Kumar Singh copyright©2017
+
+This code allows students of HCST to check their attendance in almost a second
+'''
+
+
 import requests as rq
 from bs4 import BeautifulSoup as bs
 import time
