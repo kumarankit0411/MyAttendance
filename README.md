@@ -3,7 +3,7 @@ For Students of HCST. Time 🕐 is precious. You can now check your attendance �
 
 ## NOTE
 - If you are not familiar with python, then the steps below would haunt👻 you. In that case just contact me and I would
-be happy to help
+be happy to help. You can also contact if you have a bit of experience with python but couldn't wrap your head around what's hapenning here.
 📞 - 7310654986
 
 ## Prerequisites
