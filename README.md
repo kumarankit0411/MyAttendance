@@ -20,7 +20,7 @@ be happy to help. You can also contact if you have a bit of experience with pyth
 - Go to MyAttendance folder and open attendanceChecker.py file using any text editor
 - Change the variable Id and Pass to your isim credential accordingly and save the file
 - Open terminal or command prompt and cd to the directory containing file attendanceChecker.py
-- Type 'python attendanceChecker.py' without quotes
+- Type 'python attendanceChecker.py' without quotes and hit ENTER
 - Hurray!!😃 Your attendance displays in almost a second
 
 # To do (contribute)
@@ -32,8 +32,9 @@ Following enhancements can be done:
 - The code is a bit messy at the moment. If you like to keep things clean, please show off your clean code writing skills by 
 improving the readability of the code😌 (Difficulty : Moderate)
 - Write tests for this code so as to ensure it works even for edge cases (Difficulty : Moderate)
-- Suggest spelling or grammmar mistake anywhere in this documentation (Difficulty : Easy)
+- Suggest spelling or grammar mistake anywhere in this documentation (Difficulty : Easy)
 - Anything you think should be added to make this software more useful😊 (Difficulty : ❓)
+- Build a web service around this to display the output in a broswer rather than on a console (Difficulty : Moderate)
 
 # Credits
 - Ankit Kumar Singh (Author)
