@@ -27,6 +27,7 @@ be happy to help. You can also contact if you have a bit of experience with pyth
 For those who are looking to contribute to this code, First of all Cheers!!😀
 
 Following enhancements can be done:
+- Apply image processing to read the captcha which has bees added to the site recently. This is most important one as the script is useless without a captcha reader.
 - Modify code to allow viewing of monthly, semester-wise and date-wise attendance (Difficulty : Hard)
 - Add colors🌈 to the output so its easy to look for specific info in the output (Difficulty : Hard)
 - The code is a bit messy at the moment. If you like to keep things clean, please show off your clean code writing skills by 
