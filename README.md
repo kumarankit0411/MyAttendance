@@ -24,9 +24,9 @@ be happy to help. You can also contact if you need technical help.
 - Hurray!!😃 Your attendance displays in almost a second
 
 # To do (contribute)
-For those who are looking to contribute to this code, First of all Cheers!!😀
+For those who are looking to contribute to this code, Cheers!!😀
 
-Following enhancements can be done:
+Following enhancements may be done:
 - Apply image processing to read the captcha which has bees added to the site recently. This is most important one as the script is useless without a captcha reader. (Difficulty: Moderate)
 - Modify code to allow viewing of monthly, semester-wise and date-wise attendance (Difficulty : Hard)
 - Add colors🌈 to the output so its easy to look for specific info in the output (Difficulty : Hard)
@@ -34,7 +34,7 @@ Following enhancements can be done:
 improving the readability of the code😌 (Difficulty : Moderate)
 - Write tests for this code so as to ensure it works even for edge cases (Difficulty : Moderate)
 - Suggest spelling or grammar mistake anywhere in this documentation (Difficulty : Easy)
-- Anything you think should be added to make this software more useful😊 (Difficulty : ❓)
+- Anything you think should be added to make this software more useful😊 (Difficulty :❓)
 - Build a web service around this to display the output in a broswer rather than on a console (Difficulty : Moderate)
 
 # Credits
