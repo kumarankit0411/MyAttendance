@@ -1,5 +1,5 @@
 # MyAttendance
-For Students of HCST. Time 🕐 is precious. You can now check your attendance 💯 in almost a second with this code
+For Students of HCST. Time 🕐 is precious. You can now check your attendance 💯 in almost a second with this module
 
 ## NOTE
 - If you are not familiar with python, then the steps below would haunt👻 you. In that case just contact me and I would
